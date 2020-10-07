@@ -32,6 +32,7 @@ HTML, CSS, JavaScript
     
 ## Contribution
 https://bperez94.github.io/fit-app/
+https://github.com/bperez94/fit-app
     
 ### License
 MIT
