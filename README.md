@@ -31,7 +31,7 @@ brandonp940@gmail.com
 HTML, CSS, JavaScript
     
 ## Contribution
-https://bperez94.github.io/fit-app/
+https://bperez94.github.io/fit-app/ <br>
 https://github.com/bperez94/fit-app
     
 ### License
